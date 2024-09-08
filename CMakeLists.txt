@@ -49,10 +49,7 @@ file(GLOB_RECURSE SOURCE_FILES "src/*.cpp")
 add_library(${PROJECT_NAME} ${HEADER_FILES} ${SOURCE_FILES})
 
 target_compile_options(${PROJECT_NAME} PRIVATE
-  $<$<OR:$<CXX_COMPILER_ID:Clang>,
-  $<CXX_COMPILER_ID:AppleClang>,
-  $<CXX_COMPILER_ID:GNU>>:
-  -Wall -Wno-unused-variable>
+  $<$<OR:$<CXX_COMPILER_ID:Clang>,$<CXX_COMPILER_ID:AppleClang>,$<CXX_COMPILER_ID:GNU>>:-Wall -Wno-unused-variable>
 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC

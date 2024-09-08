@@ -2,6 +2,7 @@ build/
 .cache/
 .openapi-generator/
 .openapi-generator-ignore
+compile_commands.json
 
 # Compiled Object files
 
