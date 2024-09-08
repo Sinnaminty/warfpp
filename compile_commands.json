@@ -1,0 +1,890 @@
+[
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/AnyType.cpp.o -c /home/sin/repos/personal/genny/api/src/AnyType.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/AnyType.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/AnyType.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/ApiClient.cpp.o -c /home/sin/repos/personal/genny/api/src/ApiClient.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/ApiClient.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/ApiClient.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/ApiConfiguration.cpp.o -c /home/sin/repos/personal/genny/api/src/ApiConfiguration.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/ApiConfiguration.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/ApiConfiguration.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/ApiException.cpp.o -c /home/sin/repos/personal/genny/api/src/ApiException.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/ApiException.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/ApiException.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/HttpContent.cpp.o -c /home/sin/repos/personal/genny/api/src/HttpContent.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/HttpContent.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/HttpContent.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/JsonBody.cpp.o -c /home/sin/repos/personal/genny/api/src/JsonBody.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/JsonBody.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/JsonBody.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/ModelBase.cpp.o -c /home/sin/repos/personal/genny/api/src/ModelBase.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/ModelBase.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/ModelBase.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/MultipartFormData.cpp.o -c /home/sin/repos/personal/genny/api/src/MultipartFormData.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/MultipartFormData.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/MultipartFormData.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/Object.cpp.o -c /home/sin/repos/personal/genny/api/src/Object.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/Object.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/Object.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/RivensApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/RivensApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/RivensApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/RivensApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/SearchableApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/SearchableApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/SearchableApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/SearchableApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/StaticProcessingDataApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/StaticProcessingDataApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/StaticProcessingDataApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/StaticProcessingDataApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/UnstableApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/UnstableApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/UnstableApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/UnstableApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/WarframeItemsApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/WarframeItemsApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/WarframeItemsApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/WarframeItemsApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/api/WorldstateApi.cpp.o -c /home/sin/repos/personal/genny/api/src/api/WorldstateApi.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/api/WorldstateApi.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/api/WorldstateApi.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/AcolyteI18n.cpp.o -c /home/sin/repos/personal/genny/api/src/model/AcolyteI18n.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/AcolyteI18n.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/AcolyteI18n.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alert.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Alert.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Alert.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alert.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alert_mission.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Alert_mission.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Alert_mission.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alert_mission.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alerts.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Alerts.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Alerts.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alerts.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alerts_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Alerts_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Alerts_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Alerts_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Arbitration.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Arbitration.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_enemy.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_enemy.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_enemy.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_enemy.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_enemyKey.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_enemyKey.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_enemyKey.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_enemyKey.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_typeKey.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_typeKey.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Arbitration_allOf_typeKey.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arbitration_allOf_typeKey.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arcane.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Arcane.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Arcane.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Arcane.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ArchonHunt.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ArchonHunt.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt_allOf_faction.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ArchonHunt_allOf_faction.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ArchonHunt_allOf_faction.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt_allOf_faction.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt_allOf_factionKey.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ArchonHunt_allOf_factionKey.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ArchonHunt_allOf_factionKey.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ArchonHunt_allOf_factionKey.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Attack.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Attack.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack_falloff.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Attack_falloff.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Attack_falloff.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack_falloff.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack_pellet.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Attack_pellet.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Attack_pellet.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Attack_pellet.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/CambionCycle.cpp.o -c /home/sin/repos/personal/genny/api/src/model/CambionCycle.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/CambionCycle.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/CambionCycle.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/CetusCycle.cpp.o -c /home/sin/repos/personal/genny/api/src/model/CetusCycle.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/CetusCycle.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/CetusCycle.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Conclave.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Conclave.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ConclaveChallenges.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ConclaveChallenges.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ConclaveChallenges.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ConclaveChallenges.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ConclaveChallenges_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ConclaveChallenges_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ConclaveChallenges_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ConclaveChallenges_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_categories.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Conclave_categories.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Conclave_categories.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_categories.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_modes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Conclave_modes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Conclave_modes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_modes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_modes_PVPMODE_ALL.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Conclave_modes_PVPMODE_ALL.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Conclave_modes_PVPMODE_ALL.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Conclave_modes_PVPMODE_ALL.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Construction.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Construction.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Construction.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Construction.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/DailyDeals.cpp.o -c /home/sin/repos/personal/genny/api/src/model/DailyDeals.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/DailyDeals.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/DailyDeals.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/DailyDeals_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/DailyDeals_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/DailyDeals_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/DailyDeals_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Damage.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Damage.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Damage.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Damage.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectorHistory.cpp.o -c /home/sin/repos/personal/genny/api/src/model/DarkSectorHistory.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/DarkSectorHistory.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectorHistory.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectors.cpp.o -c /home/sin/repos/personal/genny/api/src/model/DarkSectors.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/DarkSectors.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectors.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectors_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/DarkSectors_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/DarkSectors_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/DarkSectors_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Drops.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Drops.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Drops.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Drops.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Drops_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Drops_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Drops_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Drops_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/EarthCycle.cpp.o -c /home/sin/repos/personal/genny/api/src/model/EarthCycle.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/EarthCycle.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/EarthCycle.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Element.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Element.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Element.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Element.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Event.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Event.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_interimSteps.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Event_allOf_interimSteps.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Event_allOf_interimSteps.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_interimSteps.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_message.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Event_allOf_message.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Event_allOf_message.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_message.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_nextAlt.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Event_allOf_nextAlt.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Event_allOf_nextAlt.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_nextAlt.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_progressSteps.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Event_allOf_progressSteps.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Event_allOf_progressSteps.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Event_allOf_progressSteps.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Events.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Events.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Events.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Events.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Faction.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Faction.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Faction.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Faction.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Factions.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Factions.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Factions.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Factions.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissure.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Fissure.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Fissure.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissure.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureModifiers.cpp.o -c /home/sin/repos/personal/genny/api/src/model/FissureModifiers.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/FissureModifiers.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureModifiers.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureModifiers_VoidT1.cpp.o -c /home/sin/repos/personal/genny/api/src/model/FissureModifiers_VoidT1.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/FissureModifiers_VoidT1.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureModifiers_VoidT1.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureTier.cpp.o -c /home/sin/repos/personal/genny/api/src/model/FissureTier.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/FissureTier.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/FissureTier.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissures.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Fissures.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Fissures.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissures.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissures_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Fissures_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Fissures_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Fissures_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/FlashSales.cpp.o -c /home/sin/repos/personal/genny/api/src/model/FlashSales.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/FlashSales.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/FlashSales.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetOutpostsByPlatform_200_response.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GetOutpostsByPlatform_200_response.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GetOutpostsByPlatform_200_response.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetOutpostsByPlatform_200_response.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetOutpostsByPlatform_200_response_previous.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GetOutpostsByPlatform_200_response_previous.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GetOutpostsByPlatform_200_response_previous.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetOutpostsByPlatform_200_response_previous.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetWorldstateByPlatform_400_response.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GetWorldstateByPlatform_400_response.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GetWorldstateByPlatform_400_response.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetWorldstateByPlatform_400_response.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetWorldstateByPlatform_404_response.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GetWorldstateByPlatform_404_response.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GetWorldstateByPlatform_404_response.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GetWorldstateByPlatform_404_response.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GlobalUpgrades.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GlobalUpgrades.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GlobalUpgrades.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GlobalUpgrades.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/GlobalUpgrades_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/GlobalUpgrades_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/GlobalUpgrades_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/GlobalUpgrades_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Introduced.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Introduced.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Introduced.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Introduced.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasion.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasion.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/InvasionFaction.cpp.o -c /home/sin/repos/personal/genny/api/src/model/InvasionFaction.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/InvasionFaction.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/InvasionFaction.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_attacker.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasion_allOf_attacker.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasion_allOf_attacker.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_attacker.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_attackerReward.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasion_allOf_attackerReward.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasion_allOf_attackerReward.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_attackerReward.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_defender.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasion_allOf_defender.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasion_allOf_defender.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_defender.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_defenderReward.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasion_allOf_defenderReward.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasion_allOf_defenderReward.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasion_allOf_defenderReward.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasions.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Invasions.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Invasions.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Invasions.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Item.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Item.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Item.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Item.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Items.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Items.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Items.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Items.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Items_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Items_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Items_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Items_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Language.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Language.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Language.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Language.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Languages.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Languages.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Languages.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Languages.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/MeleeWeapon.cpp.o -c /home/sin/repos/personal/genny/api/src/model/MeleeWeapon.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/MeleeWeapon.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/MeleeWeapon.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mission.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Mission.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Mission.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mission.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/MissionType.cpp.o -c /home/sin/repos/personal/genny/api/src/model/MissionType.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/MissionType.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/MissionType.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/MissionTypes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/MissionTypes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/MissionTypes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/MissionTypes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mod.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Mod.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Mod.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mod.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mod_allOf_levelStats.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Mod_allOf_levelStats.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Mod_allOf_levelStats.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Mod_allOf_levelStats.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/News.cpp.o -c /home/sin/repos/personal/genny/api/src/model/News.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/News.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/News.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/News_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/News_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/News_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/News_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/News_inner_translations.cpp.o -c /home/sin/repos/personal/genny/api/src/model/News_inner_translations.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/News_inner_translations.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/News_inner_translations.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Nightwave.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Nightwave.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Nightwave.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Nightwave.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/NightwaveChallenge.cpp.o -c /home/sin/repos/personal/genny/api/src/model/NightwaveChallenge.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/NightwaveChallenge.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/NightwaveChallenge.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/OperationTypes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/OperationTypes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/OperationTypes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/OperationTypes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Patchlog.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Patchlog.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Patchlog.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Patchlog.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/PersistentEnemies.cpp.o -c /home/sin/repos/personal/genny/api/src/model/PersistentEnemies.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/PersistentEnemies.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/PersistentEnemies.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/PersistentEnemies_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/PersistentEnemies_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/PersistentEnemies_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/PersistentEnemies_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Platform.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Platform.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Platform.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Platform.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Polarity.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Polarity.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Polarity.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Polarity.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/RangedWeapon.cpp.o -c /home/sin/repos/personal/genny/api/src/model/RangedWeapon.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/RangedWeapon.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/RangedWeapon.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Reward.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Reward.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Reward.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Reward.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/RewardType.cpp.o -c /home/sin/repos/personal/genny/api/src/model/RewardType.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/RewardType.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/RewardType.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Reward_countedItems_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Reward_countedItems_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Reward_countedItems_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Reward_countedItems_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Riven.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Riven.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Riven.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Riven.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/RivenStatistic.cpp.o -c /home/sin/repos/personal/genny/api/src/model/RivenStatistic.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/RivenStatistic.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/RivenStatistic.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/RivenType.cpp.o -c /home/sin/repos/personal/genny/api/src/model/RivenType.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/RivenType.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/RivenType.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Riven_rivenCompatability_value.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Riven_rivenCompatability_value.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Riven_rivenCompatability_value.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Riven_rivenCompatability_value.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/ShallowItem.cpp.o -c /home/sin/repos/personal/genny/api/src/model/ShallowItem.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/ShallowItem.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/ShallowItem.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Simaris.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Simaris.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Simaris.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Simaris.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SimpleReward.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SimpleReward.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SimpleReward.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SimpleReward.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SlamAttack.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SlamAttack.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SlamAttack.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SlamAttack.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SlamAttack_radial.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SlamAttack_radial.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SlamAttack_radial.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SlamAttack_radial.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNode.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SolNode.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SolNode.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNode.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNodeSearch.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SolNodeSearch.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SolNodeSearch.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNodeSearch.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNodeSearch_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SolNodeSearch_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SolNodeSearch_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNodeSearch_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNode_SolKey.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SolNode_SolKey.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SolNode_SolKey.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SolNode_SolKey.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Sortie.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Sortie.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_bosses.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData_bosses.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData_bosses.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_bosses.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_bosses_SORTIE_BOSS_KELA.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData_bosses_SORTIE_BOSS_KELA.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData_bosses_SORTIE_BOSS_KELA.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_bosses_SORTIE_BOSS_KELA.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_endStates_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData_endStates_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData_endStates_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_endStates_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_endStates_inner_regions_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData_endStates_inner_regions_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData_endStates_inner_regions_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_endStates_inner_regions_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_modifierTypes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SortieData_modifierTypes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SortieData_modifierTypes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SortieData_modifierTypes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_faction.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Sortie_allOf_faction.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Sortie_allOf_faction.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_faction.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_factionKey.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Sortie_allOf_factionKey.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Sortie_allOf_factionKey.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_factionKey.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_variants.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Sortie_allOf_variants.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Sortie_allOf_variants.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Sortie_allOf_variants.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SteelPath.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SteelPath.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SteelPath.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SteelPath.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicate.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Syndicate.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Syndicate.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicate.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateJob.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SyndicateJob.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SyndicateJob.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateJob.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateMission.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SyndicateMission.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SyndicateMission.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateMission.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateMissions.cpp.o -c /home/sin/repos/personal/genny/api/src/model/SyndicateMissions.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/SyndicateMissions.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/SyndicateMissions.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicates.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Syndicates.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Syndicates.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicates.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicates_ArbitersSyndicate.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Syndicates_ArbitersSyndicate.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Syndicates_ArbitersSyndicate.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Syndicates_ArbitersSyndicate.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Tutorials.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Tutorials.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Tutorials.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Tutorials.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Tutorials_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Tutorials_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Tutorials_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Tutorials_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/UpgradeTypes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/UpgradeTypes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/UpgradeTypes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/UpgradeTypes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/VallisCycle.cpp.o -c /home/sin/repos/personal/genny/api/src/model/VallisCycle.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/VallisCycle.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/VallisCycle.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/VoidTrader.cpp.o -c /home/sin/repos/personal/genny/api/src/model/VoidTrader.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/VoidTrader.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/VoidTrader.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/VoidTrader_allOf_inventory.cpp.o -c /home/sin/repos/personal/genny/api/src/model/VoidTrader_allOf_inventory.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/VoidTrader_allOf_inventory.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/VoidTrader_allOf_inventory.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Warframe.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Warframe.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Warframe.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Warframe.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Warframes.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Warframes.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Warframes.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Warframes.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapon.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Weapon.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Weapon.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapon.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapons.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Weapons.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Weapons.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapons.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapons_inner.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Weapons_inner.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Weapons_inner.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Weapons_inner.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/WorldstateObject.cpp.o -c /home/sin/repos/personal/genny/api/src/model/WorldstateObject.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/WorldstateObject.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/WorldstateObject.cpp.o"
+},
+{
+  "directory": "/home/sin/repos/personal/genny/api/build",
+  "command": "/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/home/sin/repos/personal/genny/api/include -O3 -DNDEBUG -std=gnu++20 -fPIC -Wall -Wno-unused-variable -Wno-unused-lambda-capture -o CMakeFiles/CppRestOpenAPIClient.dir/src/model/Ws.cpp.o -c /home/sin/repos/personal/genny/api/src/model/Ws.cpp",
+  "file": "/home/sin/repos/personal/genny/api/src/model/Ws.cpp",
+  "output": "CMakeFiles/CppRestOpenAPIClient.dir/src/model/Ws.cpp.o"
+}
+]
